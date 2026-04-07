@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 🚀 Some Things About Me 
 
-🎓 I am a recent Computer Science graduate with a passion for web development and data engineering
+🎓 I am a recent Computer Science graduate with a passion for web and mobile development
 
 🌱 Currently, I am exploring full-stack projects and database optimization
 
-💼 I previously interned at Horizon Blue Cross Blue Shield of New Jersey as a Database Engineer
+💼 I previously interned at Horizon Blue Cross Blue Shield of New Jersey as a Software Engineer (Data Systems)
 
 I am excited to apply my knowledge to create solutions that address real-world problems, while continuously learning new technologies that enable me to improve my skills as a developer.
 
 ## Skills 💻 
-Programming Languages: Python, Java, JavaScript, SQL, C/C++, MATLAB, HTML/CSS
+Programming Languages: Python, Java, JavaScript, TypeScript, SQL, C/C++, MATLAB, HTML/CSS
 
 Databases: MySQL, PostgreSQL, SQLite, SQL Server, MongoDB
 
-Frameworks & Libraries: React, Next.js, Tailwind CSS, Bootstrap, Flask, Pandas, NumPy, Matplotlib, PyGame,
+Frameworks & Libraries: React, Next.js, Tailwind CSS, Bootstrap, Flask, Pandas, NumPy, Matplotlib, PyGame, PyTorch,
 JavaFX, JUnit, Spring Boot
 
 Tools: Git, GitHub, VS Code, IntelliJ, Eclipse, Android Studio, Figma, Tableau, SharePoint, Adobe Photoshop, Microsoft
