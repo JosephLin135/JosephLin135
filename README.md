@@ -20,17 +20,6 @@ I'm a developer who loves turning ideas into working products. Currently explori
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Belay](https://github.com/JosephLin135/belay) | AI-powered rock climbing assistant | React Native, Python, Supabase |
-| [Rallo](https://github.com/JosephLin135/rallo) | Real-time event coordination app | React Native, Supabase, Twilio |
-| [DataAutomation](https://github.com/JosephLin135/DataAutomation) | Python ETL pipeline with monitoring | Python, Docker |
-| [TravelReservation](https://github.com/JosephLin135/TravelReservation) | Java reservation system | Java, SQL |
-
----
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-lin135/)
