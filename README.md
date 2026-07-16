@@ -1,38 +1,37 @@
-## Hi there, I'm Joseph!
+# Hi, I'm Joseph Lin 👋
 
-<!--
-**JosephLin135/JosephLin135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** | Recent CS Graduate | Building full-stack apps
 
-Here are some ideas to get you started:
+I'm a developer who loves turning ideas into working products. Currently exploring full-stack development and database optimization. Previously interned at **Horizon Blue Cross Blue Shield of New Jersey** as a Software Engineer (Data Systems), where I worked on building data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Some Things About Me 
+---
 
-I am a recent Computer Science graduate with a passion for web and mobile development
+## 🛠️ What I Work With
 
-Currently, I am exploring full-stack projects and database optimization
+**Languages:** Python, Java, TypeScript, JavaScript, SQL, C/C++, HTML/CSS
 
-I previously interned at Horizon Blue Cross Blue Shield of New Jersey as a Software Engineer (Data Systems)
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap
 
-I am excited to apply my knowledge to create solutions to real-world problems while continually learning new technologies that help me improve my skills as a developer.
+**Backend:** Flask, Spring Boot, Node.js
 
-## Skills 💻 
-Programming Languages: Python, Java, JavaScript, TypeScript, SQL, C/C++, MATLAB, HTML/CSS
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 
-Databases: MySQL, PostgreSQL, SQLite, SQL Server, MongoDB
+**Tools:** Git, Docker, VS Code, IntelliJ, Figma
 
-Frameworks & Libraries: React, Next.js, Tailwind CSS, Bootstrap, Flask, Pandas, NumPy, Matplotlib, PyGame, PyTorch,
-JavaFX, JUnit, Spring Boot
+---
 
-Tools: Git, GitHub, VS Code, IntelliJ, Eclipse, Android Studio, Figma, Tableau, SharePoint, Adobe Photoshop, Microsoft
-Excel, SolidWorks
+## 📂 Featured Projects
 
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Belay](https://github.com/JosephLin135/belay) | AI-powered rock climbing assistant | React Native, Python, Supabase |
+| [Rallo](https://github.com/JosephLin135/rallo) | Real-time event coordination app | React Native, Supabase, Twilio |
+| [DataAutomation](https://github.com/JosephLin135/DataAutomation) | Python ETL pipeline with monitoring | Python, Docker |
+| [TravelReservation](https://github.com/JosephLin135/TravelReservation) | Java reservation system | Java, SQL |
 
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-lin135/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linjoe135@gmail.com)
