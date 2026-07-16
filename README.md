@@ -1,4 +1,4 @@
-## Hi there, I'm Joseph! 👋
+## Hi there, I'm Joseph!
 
 <!--
 **JosephLin135/JosephLin135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Some Things About Me 
+Some Things About Me 
 
-🎓 I am a recent Computer Science graduate with a passion for web and mobile development
+I am a recent Computer Science graduate with a passion for web and mobile development
 
-🌱 Currently, I am exploring full-stack projects and database optimization
+Currently, I am exploring full-stack projects and database optimization
 
-💼 I previously interned at Horizon Blue Cross Blue Shield of New Jersey as a Software Engineer (Data Systems)
+I previously interned at Horizon Blue Cross Blue Shield of New Jersey as a Software Engineer (Data Systems)
 
-I am excited to apply my knowledge to create solutions that address real-world problems, while continuously learning new technologies that enable me to improve my skills as a developer.
+I am excited to apply my knowledge to create solutions to real-world problems while continually learning new technologies that help me improve my skills as a developer.
 
 ## Skills 💻 
 Programming Languages: Python, Java, JavaScript, TypeScript, SQL, C/C++, MATLAB, HTML/CSS
