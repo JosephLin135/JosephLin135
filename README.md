@@ -8,15 +8,16 @@ I'm a developer who loves turning ideas into working products. Currently explori
 
 ## 🛠️ What I Work With
 
-**Languages:** Python, Java, TypeScript, JavaScript, SQL, C/C++, HTML/CSS
+**Programming Languages**: Python, JavaScript, TypeScript, Java, C, C++, SQL, HTML/CSS
 
-**Frontend:** React, Next.js, Tailwind CSS, Bootstrap
+**Frameworks and Libraries**: React/React Native, Next.js, Node.js, GraphQL, Flask, Spring Boot, Pandas, NumPy, OpenCV
 
-**Backend:** Flask, Spring Boot, Node.js
+**Databases**: PostgreSQL, Microsoft SQL Server, MongoDB, Oracle, MySQL, SQLite
 
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+**Tools and Platforms**: Docker, Git, Supabase, Vercel, Expo, Tableau, Roboflow, Figma, Jira, Jupyter
 
-**Tools:** Git, Docker, VS Code, IntelliJ, Figma
+**Concepts**: RESTful API Design, CI/CD, JWT Auth, Full Stack/Mobile Development, System Design
+
 
 ---
 
