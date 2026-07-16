@@ -23,6 +23,6 @@ I'm a developer who loves turning ideas into working products. Currently explori
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-lin135/)
-[![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin-joseph.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-lin135/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://lin-joseph.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linjoe135@gmail.com)
